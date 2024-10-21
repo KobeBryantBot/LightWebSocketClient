@@ -5,7 +5,7 @@ A simple cross-platform WebSocket client.
 
 ## Features
 
-* C++11
+* C++23
 * Light
 * Cross-platform
 * Easy to use
